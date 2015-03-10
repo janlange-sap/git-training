@@ -7,3 +7,4 @@ repo 4 training GitHub collaboration and best practices
 
 ##conflict
 - another conflict
+- conflict
